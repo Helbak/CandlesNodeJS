@@ -1,0 +1,20 @@
+﻿
+Date: Thu Jul 04 2019 21:56:59 GMT+0300 (GMT+03:00), open: 1.3247, close: 1.3325 low: 1.7549, high: 1.1336
+Date: Thu Jul 04 2019 21:57:59 GMT+0300 (GMT+03:00), open: undefined, close: 1.2546 low: 1.2546, high: 1.7404
+Date: Thu Jul 04 2019 21:58:59 GMT+0300 (GMT+03:00), open: undefined, close: 1.2923 low: 1.2923, high: 1.6233
+Date: Thu Jul 04 2019 21:59:59 GMT+0300 (GMT+03:00), open: undefined, close: 1.2519 low: 1.2519, high: 1.6336Date: Thu Jul 04 2019 22:01:59 GMT+0300 (GMT+03:00), open: 1.5179, close: 1.6778 low: 1.7805, high: 1.1156
+Date: Thu Jul 04 2019 22:02:59 GMT+0300 (GMT+03:00), open: undefined, close: 1.1493 low: 1.1493, high: 1.1482
+Date: Thu Jul 04 2019 22:03:59 GMT+0300 (GMT+03:00), open: undefined, close: 1.5542 low: 1.5542, high: 1.4202
+Date: Thu Jul 04 2019 22:04:59 GMT+0300 (GMT+03:00), open: undefined, close: 1.1470 low: 1.1470, high: 1.6331
+Date: Thu Jul 04 2019 22:05:59 GMT+0300 (GMT+03:00), open: undefined, close: 1.3097 low: 1.3097, high: 1.7140
+Date: Thu Jul 04 2019 22:06:59 GMT+0300 (GMT+03:00), open: undefined, close: 1.1635 low: 1.1635, high: 1.4819
+Date: Thu Jul 04 2019 22:07:59 GMT+0300 (GMT+03:00), open: undefined, close: 1.2887 low: 1.2887, high: 1.6123
+Date: Thu Jul 04 2019 22:08:59 GMT+0300 (GMT+03:00), open: undefined, close: 1.7899 low: 1.7899, high: 1.6202
+Date: Thu Jul 04 2019 22:09:59 GMT+0300 (GMT+03:00), open: undefined, close: 1.3064 low: 1.3064, high: 1.1177
+Date: Thu Jul 04 2019 22:10:59 GMT+0300 (GMT+03:00), open: undefined, close: 1.4850 low: 1.4850, high: 1.5079
+Date: 22,12, 59, open: 1.3136, close: 1.7905 low: 1.7905, high: 1.1073#
+Date: 22,13, 59, open: undefined, close: 1.2979 low: 1.2979, high: 1.7682#
+Date: 22,14, 59, open: undefined, close: 1.6820 low: 1.6820, high: 1.6961#
+Date: 22,15, 59, open: undefined, close: 1.4089 low: 1.4089, high: 1.2014#
+Date: 22,16, 59, open: undefined, close: 1.3978 low: 1.3978, high: 1.6130#
+Date: 22,17, 59, open: undefined, close: 1.5556 low: 1.5556, high: 1.7575#
